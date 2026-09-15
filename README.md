@@ -1,5 +1,6 @@
 DIGITMATCH AI BOT
-🤖 Ultra-precision, fully automated trading robot engineered for surgical market entries on Deriv synthetics. Plug &amp; play simplicity, just upload, let it run, watch it win. 🎯
+🤖 Ultra-precision, fully automated trading robot engineered for surgical market entries on Deriv synthetics. Plug & play simplicity, just upload, let it run, watch it win. 🎯
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/203ebe27-a4ef-4d7e-8531-7d916c3d1ca2" alt="DigitMatch AI Bot Banner" width="100%" />
@@ -14,39 +15,57 @@ DIGITMATCH AI BOT
   </a>
 </p>
 
----
+<hr>
 
 <h1 align="center">🤖 DIGITMATCH GHOST AI BOT</h1>
 
 <p align="center">
-  <b>Ultra-precision, fully automated trading robot engineered for surgical market entries on Deriv synthetics.</b><br>
-  <b>Plug-and-play simplicity—just upload, let it run, watch it win. 🎯</b>
+  <b>Ultra precision fully automated trading robot engineered for surgical market entries on Deriv synthetics.</b><br>
+  <b>Plug and play simplicity, just upload, let it run, watch it win. 🎯</b>
 </p>
 
----
+<hr>
 
 ### ⚡ Overview
 
-DigitMatch Ghost AI Bot stands out with internal analysis strategies, real-time sniper entries, and fully automated execution. 
+DigitMatch Ghost AI Bot stands out with internal analysis strategies, real time sniper entries, and fully automated execution. 
 
 * 🚫 **No Manual Strategy Required**
 * 🚫 **No Plugins Required**
 * 🚫 **No External Signals Required**
 
----
+<hr>
 
 ### 🚀 Key Features
 
-* 🎯 **Advanced Algorithms** – High-precision, real-time execution.
-* 🧠 **Internal Market Analysis** – Operates fully autonomously without manual input.
-* ⚡ **Zero Dependency** – Requires no extra plugins or third-party indicators.
-* 🛠️ **Plug-and-Play Simplicity** – Easy setup in minutes.
-* 🛡️ **Built-in Risk Management** – Optimized lot sizing and safety protocols.
-* ❌ **No Martingale** – Protects account balance during unexpected market moves.
-* ⏰ **24/7 Autonomous Trading** – Continuous monitoring and execution.
-* 💻 **User-Friendly Interface** – Clean, intuitive controls.
+* 🎯 **Advanced Algorithms** • High precision real time execution
+* 🧠 **Internal Market Analysis** • Operates fully autonomously without manual input
+* ⚡ **Zero Dependency** • Requires no extra plugins or third party indicators
+* 🛠️ **Plug and Play Simplicity** • Easy setup in minutes
+* 🛡️ **Built in Risk Management** • Optimized lot sizing and safety protocols
+* ❌ **No Martingale** • Protects account balance during unexpected market moves
+* ⏰ **24/7 Autonomous Trading** • Continuous monitoring and execution
+* 💻 **User Friendly Interface** • Clean intuitive controls
 
----
+<hr>
+
+### 💰 Pricing & Acquisition
+
+<p align="center">
+  <s>Regular Price: $200 USD</s><br>
+  <h2>🔥 Limited Time Offer: <b>$100 USD</b></h2>
+</p>
+
+<p align="center">
+  <a href="https://t.me/Deriv_Pro">
+    <img src="https://img.shields.io/badge/BUY%20VIA%20TELEGRAM-@Deriv__Pro-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Buy Telegram" />
+  </a>
+  <a href="https://wa.me/254747204803">
+    <img src="https://img.shields.io/badge/BUY%20VIA%20WHATSAPP-+254747204803-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Buy WhatsApp" />
+  </a>
+</p>
+
+<hr>
 
 ### 📊 Verified Bot Performance & Trading Proof
 
@@ -78,28 +97,8 @@ DigitMatch Ghost AI Bot stands out with internal analysis strategies, real-time 
   <img src="https://github.com/user-attachments/assets/54166fdc-b18f-43ae-ac16-5f9411ea239c" width="85%" />
 </p>
 
----
-
-### 💰 Pricing & Acquisition
-
-<p align="center">
-  <s>Regular Price: $200 USD</s><br>
-  <h2>🔥 Limited Time Offer: <b>$100 USD</b></h2>
-</p>
-
-<p align="center">
-  <a href="https://t.me/Deriv_Pro">
-    <img src="https://img.shields.io/badge/BUY%20VIA%20TELEGRAM-@Deriv__Pro-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Buy Telegram" />
-  </a>
-  <a href="https://wa.me/254747204803">
-    <img src="https://img.shields.io/badge/BUY%20VIA%20WHATSAPP-+254747204803-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Buy WhatsApp" />
-  </a>
-</p>
-
----
+<hr>
 
 <p align="center">
   <i>Developed & Maintained by <b>Deriv Pro</b></i>
 </p>
-
-
