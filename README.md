@@ -58,10 +58,10 @@ DigitMatch Ghost AI Bot stands out with internal analysis strategies, real time 
 
 <p align="center">
   <a href="https://t.me/Deriv_Pro">
-    <img src="https://img.shields.io/badge/BUY%20VIA%20TELEGRAM-@Deriv__Pro-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Buy Telegram" />
+    <img src="https://img.shields.io/badge/BUY%20VIA%20TELEGRAM-@Deriv_Pro-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Buy Telegram" />
   </a>
-  <a href="https://wa.me/254747204803">
-    <img src="https://img.shields.io/badge/BUY%20VIA%20WHATSAPP-+254747204803-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Buy WhatsApp" />
+  <a href="https://wa.me/Deriv_Pro">
+    <img src="https://img.shields.io/badge/BUY%20VIA%20WHATSAPP-@Deriv_Pro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Buy WhatsApp" />
   </a>
 </p>
 
