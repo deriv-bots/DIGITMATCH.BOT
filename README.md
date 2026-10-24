@@ -52,9 +52,8 @@ DigitMatch Ghost AI Bot stands out with internal analysis strategies, real time 
 ### 💰 Pricing & Acquisition
 
 <p align="center">
-  <s>Regular Price: $200 USD</s><br>
-  <h2>🔥 Limited Time Offer: <b>$100 USD</b></h2>
-</p>
+  <s>Price: $200 USD</s><br>
+ </p>
 
 <p align="center">
   <a href="https://t.me/Deriv_Pro">
