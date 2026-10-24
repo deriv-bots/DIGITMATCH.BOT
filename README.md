@@ -1,5 +1,5 @@
 DIGITMATCH AI BOT
-🤖 Ultra-precision, fully automated trading robot engineered for surgical market entries on Deriv synthetics. Plug & play simplicity, just upload, let it run, watch it win. 🎯
+Ultra-precision, fully automated trading robot engineered for surgical market entries on Deriv synthetics. Plug & play simplicity, just upload, let it run, watch it win. 
 
 
 <p align="center">
@@ -7,7 +7,7 @@ DIGITMATCH AI BOT
 </p>
 
 <p align="center">
-  <a href="https://wa.me/254747204803">
+  <a href="https://wa.me/Deriv_Pro">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://t.me/Deriv_Pro">
