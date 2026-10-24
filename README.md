@@ -52,7 +52,7 @@ DigitMatch Ghost AI Bot stands out with internal analysis strategies, real time 
 ### 💰 Pricing & Acquisition
 
 <p align="center">
-  <s>Price: $200 USD</s><br>
+  Price: $200 USD
  </p>
 
 <p align="center">
